@@ -25,7 +25,7 @@ The platform is built using a cloud-native microservices architecture deployed o
 Azure Kubernetes Service (AKS). The design focuses on separation of concerns,
 scalability, and future-proof GenAI integration.
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](docs/architecture_diagram.png)
 
 ### Architecture Flow
 
